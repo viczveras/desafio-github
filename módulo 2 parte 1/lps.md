@@ -1,0 +1,39 @@
+## Principais linguagens
+- --
+- HTML
+- CSS
+- JS (JQuary, Ajax)
+- PHP
+- .NET
+- ASP
+- Java
+- C / C++ / C#
+- Perl
+- Ruby
+- Phyton
+- Perl
+- Lua
+-- --
+## Termos Comuns
+- 404
+- Algoritmo
+- Alt
+- Api
+- Back-end
+- Biblioteca/dll
+- Bootstrap
+- Breakpoints
+- Bug
+- Cache
+- Controle de versão
+- Debug
+- Deploy
+- DNS
+- DPI
+- Favicon
+- Framework
+- FTP
+- MySQL
+- UI
+- UX
+- WYSIWYG 
